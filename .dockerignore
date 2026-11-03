@@ -1,0 +1,13 @@
+.git
+.gitignore
+
+node_modules
+dist
+*.tsbuildinfo
+
+.env
+pm2.config.cjs
+
+logs
+config
+*.example
